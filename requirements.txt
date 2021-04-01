@@ -1,6 +1,5 @@
 absl-py==0.6.1
 astor==0.7.1
-Click==7.0
 Flask==1.0.2
 Flask-Cors==3.0.7
 gunicorn==19.9.0
@@ -12,10 +11,8 @@ Markdown==3.0.1
 MarkupSafe==1.1.0
 matplotlib==3.0.2
 numpy==1.15.4
-protobuf==3.6.1
 pyparsing==2.3.0
 python-dateutil==2.7.5
-PyYAML==3.13
 scikit-learn==0.20.1
 scipy==1.1.0
 sklearn==0.0
